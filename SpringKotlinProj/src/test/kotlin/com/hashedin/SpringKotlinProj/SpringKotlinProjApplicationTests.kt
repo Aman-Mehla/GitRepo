@@ -1,10 +1,10 @@
-package com.hashedin.SpringKotlinDemo
+package com.hashedin.SpringKotlinProj
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class SpringKotlinDemoApplicationTests {
+class SpringKotlinProjApplicationTests {
 
 	@Test
 	fun contextLoads() {
